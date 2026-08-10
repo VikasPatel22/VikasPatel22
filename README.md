@@ -17,7 +17,7 @@
 
 I'm a **Student & AI/CS Enthusiast** from Raipur, India — building tools and models that bring powerful AI to everyday hardware.
 
-- 🔬 Founder of **[Vorenthos Labs](https://huggingface.co/vorenthiclabs)** — open-weight LLMs & vision-language models
+- 🔬 Founder of **[Vorenthic Labs](https://huggingface.co/vorenthiclabs)** — open-weight LLMs & vision-language models
 - 🖥️ Obsessed with **local-first AI** — no cloud, no subscriptions, just your machine
 - 🛠️ I build full-stack apps, AI pipelines, self-hosted tools, and browser automation
 - 📦 All my models are **GGUF-quantized** and **Ollama-ready**
@@ -25,7 +25,7 @@ I'm a **Student & AI/CS Enthusiast** from Raipur, India — building tools and m
 
 ---
 
-## 🚀 Vorenthos Labs — My AI Models
+## 🚀 Vorenthic Labs — My AI Models
 
 > Open-weight models built for local inference. Pull and run in seconds.
 
