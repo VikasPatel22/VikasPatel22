@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vikas+Patel+%F0%9F%91%8B;Building+AI+that+runs+on+your+machine;Vorenthos+Labs+%7C+Local+AI+Researcher;Code.+Debug.+Dominate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Vikas+Patel+%F0%9F%91%8B;Local+AI+%7C+Vorenthos+Labs;Code.+Debug.+Dominate." alt="Typing SVG" />
 
 <br/>
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-vorenthiclabs-yellow?style=for-the-badge)](https://huggingface.co/vorenthiclabs)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-vorenticlab.pages.dev-blue?style=for-the-badge)](https://vorenticlab.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Patel-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikas-patel-234487386)
-[![Instagram](https://img.shields.io/badge/Instagram-simply__vikas__-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/simply_vikas_)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-vorenthiclabs-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/vorenthiclabs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vorenticlab.pages.dev-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorenticlab.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-patel-234487386)
+[![Instagram](https://img.shields.io/badge/Instagram-simply__vikas__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simply_vikas_)
 
 </div>
 
@@ -54,10 +54,10 @@ ollama run vorenthiclabs/vorenthos-r1-flagship
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
