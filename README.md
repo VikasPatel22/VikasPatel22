@@ -5,7 +5,7 @@
 <br/>
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-vorenthiclabs-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/vorenthiclabs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VikasPatel-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://builtbyvikas.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vikas_Patel-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://builtbyvikas.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-patel-234487386)
 [![Instagram](https://img.shields.io/badge/Instagram-simply__vikas__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simply_vikas_)
 
