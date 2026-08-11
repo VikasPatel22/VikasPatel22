@@ -108,7 +108,7 @@ ollama run vorenthiclabs/vorenthos-r1-flagship
 | Platform | Link |
 |---|---|
 | 🤗 Hugging Face | [vorenthiclabs](https://huggingface.co/vorenthiclabs) |
-| 🌐 Portfolio | [vorenticlab.pages.dev](https://vorenticlab.pages.dev/) |
+| 🌐 Portfolio | [Vikas_Patel](https://builtbyvikas.pages.dev/) |
 | 🔗 LinkedIn | [Vikas Patel](https://linkedin.com/in/vikas-patel-234487386) |
 | 📸 Instagram | [@simply_vikas_](https://instagram.com/simply_vikas_) |
 | 📧 Email | vikaspatel22062009@gmail.com |
