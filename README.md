@@ -5,7 +5,7 @@
 <br/>
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-vorenthiclabs-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/vorenthiclabs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vorenticlab.pages.dev-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorenticlabs.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vorenticlabs.pages.dev-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorenticlabs.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-patel-234487386)
 [![Instagram](https://img.shields.io/badge/Instagram-simply__vikas__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simply_vikas_)
 
@@ -17,7 +17,7 @@
 
 I'm a **Student & AI/CS Enthusiast** from Raipur, India — building tools and models that bring powerful AI to everyday hardware.
 
-- 🔬 Founder of **[Vorenthic Labs](https://huggingface.co/vorenthiclabs)** — open-weight LLMs & vision-language models
+- 🔬 Founder of **[Vorenthic Labs](https://vorenthiclabs.pages.dev)** — open-weight LLMs & vision-language models
 - 🖥️ Obsessed with **local-first AI** — no cloud, no subscriptions, just your machine
 - 🛠️ I build full-stack apps, AI pipelines, self-hosted tools, and browser automation
 - 📦 All my models are **GGUF-quantized** and **Ollama-ready**
