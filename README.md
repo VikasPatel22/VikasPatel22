@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/VikasPatel22/VikasPatel22/blob/main/vikas.png?raw=true" width="680" alt="Vikas Patel"/>
+<img src="https://github.com/VikasPatel22/VikasPatel22/blob/main/vikas.png?raw=true" width="280" alt="Vikas Patel"/>
 
 <br/><br/>
 
@@ -96,6 +96,7 @@ I'm currently exploring next-generation architectures for accurate, efficient re
 </table>
 
 ---
+
 ### GitHub Analytics
 
 <div align="center">
@@ -140,13 +141,5 @@ I'm open to collaborations, interesting AI systems work, and conversations aroun
 <div align="center">
 
 **Currently open to collaborations & AI builds**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/VikasPatel22/VikasPatel22/main/assets/footer-line.svg" width="100%" alt=""/>
-
-<br/>
-
-<sub>Designed with the same editorial system used on <a href="https://builtbyvikas.pages.dev">builtbyvikas.pages.dev</a></sub>
 
 </div>
