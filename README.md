@@ -1,23 +1,35 @@
 <div align="center">
 
-<img src="https://github.com/VikasPatel22/VikasPatel22/blob/main/vikas.png?raw=true" width="280" alt="Vikas Patel"/>
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<br/><br/>
+### Vikas Patel
 
-### AI Engineer · Prompt & Loop Engineer · Full-Stack Developer
+**AI Engineer · Prompt & Loop Engineer · Full-Stack Developer**
 
-**Building zero-hallucination AI systems · Bespoke interfaces · Production-grade full-stack software**
+Building zero-hallucination AI systems · Bespoke interfaces · Production-grade full-stack software
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-BUILTBYVIKAS.PAGES.DEV-E88D63?style=for-the-badge)](https://builtbyvikas.pages.dev)
 [![GitHub](https://img.shields.io/badge/GITHUB-VIKASPATEL22-16232E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasPatel22)
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIKAS%20PATEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-patel-234487386)
 [![Email](https://img.shields.io/badge/EMAIL-VIKASPATEL22062009%40GMAIL.COM-B8D4E3?style=for-the-badge&logo=gmail&logoColor=16232E)](mailto:vikaspatel22062009@gmail.com)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=VikasPatel22&style=flat-square&color=E88D63&label=Profile+Views" alt="Profile views"/>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github.com/VikasPatel22/VikasPatel22/blob/main/vikas.png?raw=true" width="240" alt="Vikas Patel"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
