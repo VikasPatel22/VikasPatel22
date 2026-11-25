@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="vikas.png" width="100%" alt="Vikas Patel — AI Engineer & Full-Stack Developer"/>
+<img src="https://github.com/VikasPatel22/VikasPatel22/blob/main/vikas.png?raw=true" width="680" alt="Vikas Patel"/>
 
 <br/><br/>
 
@@ -10,10 +10,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-builtbyvikas.pages.dev-E88D63?style=for-the-badge&logo=vercel&logoColor=white)](https://builtbyvikas.pages.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-VikasPatel22-16232E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasPatel22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-patel-234487386)
-[![Email](https://img.shields.io/badge/Email-vikaspatel22062009%40gmail.com-B8D4E3?style=for-the-badge&logo=gmail&logoColor=16232E)](mailto:vikaspatel22062009@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-BUILTBYVIKAS.PAGES.DEV-E88D63?style=for-the-badge)](https://builtbyvikas.pages.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-VIKASPATEL22-16232E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasPatel22)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIKAS%20PATEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-patel-234487386)
+[![Email](https://img.shields.io/badge/EMAIL-VIKASPATEL22062009%40GMAIL.COM-B8D4E3?style=for-the-badge&logo=gmail&logoColor=16232E)](mailto:vikaspatel22062009@gmail.com)
 
 <br/>
 
