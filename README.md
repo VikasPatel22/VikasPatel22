@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VikasPatel22/VikasPatel22/main/assets/banner.png" width="100%" alt="Vikas Patel — AI Engineer & Full-Stack Developer"/>
+<img src="vikas.png" width="100%" alt="Vikas Patel — AI Engineer & Full-Stack Developer"/>
 
 <br/><br/>
 
@@ -96,18 +96,17 @@ I'm currently exploring next-generation architectures for accurate, efficient re
 </table>
 
 ---
-
 ### GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VikasPatel22&show_icons=true&theme=transparent&hide_border=true&title_color=E88D63&icon_color=B8D4E3&text_color=16232E&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VikasPatel22&show_icons=true&theme=transparent&hide_border=true&title_color=E88D63&icon_color=B8D4E3&text_color=c9d1d9&bg_color=161B22&border_radius=10" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasPatel22&layout=compact&theme=transparent&hide_border=true&title_color=E88D63&text_color=c9d1d9&bg_color=161B22&border_radius=10" height="170"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasPatel22&layout=compact&theme=transparent&hide_border=true&title_color=E88D63&text_color=16232E&bg_color=00000000"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasPatel22&theme=transparent&hide_border=true&stroke=16232E&ring=E88D63&fire=E88D63&currStreakNum=16232E&sideNums=16232E&currStreakLabel=E88D63&sideLabels=B8D4E3&dates=16232E&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=VikasPatel22&theme=transparent&hide_border=true&background=161B22&ring=E88D63&fire=E88D63&currStreakLabel=E88D63&sideLabels=B8D4E3&dates=8B949E&stroke=30363D&border_radius=10" alt="Streak"/>
 
 </div>
 
